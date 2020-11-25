@@ -1,6 +1,6 @@
 {
   "name": "Demo",
-  "description": "Demo Get Info Of Macbook",
+  "description": "Demo Get Charts Of ZingMP3 And Youtube",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.3]",
